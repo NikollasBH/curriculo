@@ -75,4 +75,4 @@
 17/05/2019 – 14/10/2021
 
 - Recebimento e reposição de mercadorias.
-- Atendimento ao balcão.
+- Atendimento como balcão.
